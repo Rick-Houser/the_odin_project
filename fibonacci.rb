@@ -14,15 +14,15 @@ i = 0
 j = 1
 k = 0
 sum = 0
-	(num).times do
-		k = i + j
-		i = j
-		j = k
-		if j % 2 == 0
-			sum += j 
-		end 
-	end
-	puts sum
+  (num).times do
+    k = i + j
+    i = j
+    j = k
+    if j % 2 == 0
+      sum += j 
+    end 
+  end
+puts sum
 end
 
 fibonacci(10)
