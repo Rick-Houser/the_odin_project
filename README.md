@@ -1,4 +1,3 @@
-# Project Euler Solutions in Ruby
+# The Odin Project
 
-These were part of The Odin Project's assigned work.
-While most complete the work in JavaScript, I chose to challenge myself by writing it in Ruby. 
+Just some random exercises taken from The Odin Project.
