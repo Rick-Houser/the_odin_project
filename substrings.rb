@@ -4,7 +4,7 @@ dictionary = ["below","down","go","going","horn","how",
 
 def substrings(string, dictionary)
 
-	words = string.downcase.split(" ")
+	words = string.downcase.split
 	result = Hash.new(0)
 	
 	words.each do |word|
